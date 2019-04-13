@@ -1,0 +1,2 @@
+purchase(arima) p:2 d:1 q:3 time:3.840000 score:113.257679
+purchase(arma) p:6 q:4 time:9.380000 score:154.506777

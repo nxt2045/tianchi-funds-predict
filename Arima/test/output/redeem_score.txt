@@ -1,0 +1,2 @@
+redeem(arma) p:7 q:5 time:57.820000 score:130.587368
+redeem(arima) p:4 d:1 q:5 time:6.480000 score:141.482134
