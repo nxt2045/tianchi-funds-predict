@@ -1,5 +1,5 @@
-# Tian-Chi
-- Yu-E-Bao Prediction for Tianchi Data-Mining Competition
+# Funds-Predict
+- Top 5-10/140 服务外包
 ## Enveriment
 - IDEA
 - Python 3.6
