@@ -4,11 +4,9 @@
 - IDEA
 - Python 3.6
 ## Content
-### FP-Growth
-    Frequent Pattern Anaylse
-### Arima  
+### ARIMA    
     Auto Regressive Integrated Moving Average
-### Lstm
+### LSTM
     Long Short-Term Memory
 ### STL
     Seasonal Decomposition of Time Series by Loess 
