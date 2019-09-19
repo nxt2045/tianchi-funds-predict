@@ -1,5 +1,6 @@
 # Funds-Predict
 - Top 5-10/140 服务外包2019-资金预测
+- 详细文档见详细技术大纲.docx
 ## Enveriment
 - IDEA
 - Python 3.6
