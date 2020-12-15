@@ -5,17 +5,13 @@
 - IDEA
 - Python 3.6
 ## Content
-### ARIMA
-    Auto Regressive Integrated Moving Average
-### LSTM
-    Long Short-Term Memory
-### STL
-    Seasonal Decomposition of Time Series by Loess
-### LM
-    Multivariate Regression
+- ARIMA: Auto Regressive Integrated Moving Average
+- LSTM: Long Short-Term Memory
+- STL: Seasonal Decomposition of Time Series by Loess
+- LM: Multivariate Regression
 
 
-## Core
+## Model
 ![1](img/1.png)
 ![2](img/2.png)
 ![3](img/3.png)
